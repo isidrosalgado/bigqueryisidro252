@@ -13,3 +13,4 @@ persist_with: mtrisidro252_default_datagroup
 explore: users {}
 explore: orders {}
 explore: pdt {}
+explore: order_items {}
